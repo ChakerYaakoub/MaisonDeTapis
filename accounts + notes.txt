@@ -1,0 +1,36 @@
+Before running the Tapis Online Ordering System, you need to install XAMPP (or a similar application) first.
+
+1 - Download and place the "tapis" file in this location:
+C:\xampp\htdocs\tapis 
+
+2-Import the "tapis.sql" file into your current server/PC using PHPMyAdmin.
+
+3-Access the application by visiting this link in your web browser:
+http://localhost/tapis/home.php
+
+
+Note: To use the download PDF feature, your computer must be connected to the internet.
+
+
+Here are the login details for the different types of accounts:
+
+User-client account:
+
+Email: user@hotmail.com
+Password: user
+Admin account:
+
+Email: admin@hotmail.com
+Password: admin
+Commercant account:
+
+Email: commercant@hotmail.com
+Password: chaker
+Livreur account:
+
+Email: liv@hotmail.com
+Password: chaker
+
+Thank you for checking out the Tapis Online Ordering System!
+
+
